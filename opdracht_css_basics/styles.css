@@ -1,0 +1,17 @@
+*{
+    color:darkcyan
+}
+.headerFooter {
+    background-color:aquamarine;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+p, ol{
+    font-size: 20px;
+}
+#topBorder{
+    border: 1px solid blue;
+}
+.inBetween {
+    background-color:lightblue;
+    border: 1px solid blue;
+}
